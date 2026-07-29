@@ -2,7 +2,7 @@ const current = location.pathname.split('/').pop() || 'index.html';
 const navItems = [
   ['index.html','Home'], ['pages/about.html','About'], ['pages/vision.html','Vision'],
   ['pages/embodiment.html','Embodiment'], ['pages/witchcraft.html','Witchcraft'],
-  ['pages/resources.html','Resources'], ['pages/journal.html','Journal'], ['pages/contact.html','Contact']
+  ['pages/resources.html','Resources'], ['pages/body-ledger.html','Body Ledger'], ['pages/journal.html','Journal'], ['pages/contact.html','Contact']
 ];
 const depth = location.pathname.includes('/pages/') ? '../' : '';
 const header = `
