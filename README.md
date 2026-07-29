@@ -16,18 +16,12 @@ Then visit `http://localhost:8000`.
 
 This folder can be uploaded to GitHub Pages, Netlify, Cloudflare Pages, or nearly any static web host. For GitHub Pages, place all files at the repository root and enable Pages in repository settings.
 
-## Personalize before launch
+## Ready-to-publish content
 
-Search the project for these terms:
+Kate’s name is included throughout the public-facing copy. The Journal contains nine complete, linked, sourced articles. The navigation and accessibility tools are fully implemented.
 
-- `[Name]`
-- `[Name] is`
-- `YOUR-FORM-ID`
-- `Setup needed`
-- `Before launch`
-- `Personalize before launch`
+Before public launch, replace the monogram portrait on `pages/about.html` with Kate’s chosen image and connect the contact form and Body Ledger to production services.
 
-Replace the About-page placeholders with her exact name, pronouns, training, years of experience, and only the health information she consents to disclose. Connect the contact form, add social accounts, and have the disclaimer reviewed before selling health-related services.
 
 ## Included
 
